@@ -1,0 +1,10 @@
+certutil -hashfile "file"
+SHA1 hash of "file":
+39e63cd38466a79fbef5907f501f5b9a8bac32f1
+CertUtil: -hashfile command completed successfully.
+
+
+certutil -hashfile "file" SHA256
+SHA256 hash of file:
+9f06b736ef2bd07aaf82f1bd575dc92108b442b97f5d4308eb3816613c086977
+CertUtil: -hashfile command completed successfully.
